@@ -10,7 +10,7 @@ Additionally, Floyd-Warshall can be beneficial in scenarios where the navigation
 
 FUTURE SCOPE:
 Some of the future advancements for the proposed system may be:- 
--Real-Time Traffic Prediction and Adaptive Routing
-=Integration with Autonomous Vehicles
--AI and Machine Learning Advancements
+-Real-Time Traffic Prediction and Adaptive Routing, 
+-Integration with Autonomous Vehicles, 
+-AI and Machine Learning Advancements,
 -Crowdsourcing and Collaborative Systems
